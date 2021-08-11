@@ -1,0 +1,22 @@
+{
+  "name": "MyFramework",
+  "version": "0.1.0",
+  "summary": "A short description of MyFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rish.jain89@gmail.com/MyFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rish.jain89@gmail.com": "hcg.harish@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rish.jain89@gmail.com/MyFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyFramework/Classes/**/*"
+}
